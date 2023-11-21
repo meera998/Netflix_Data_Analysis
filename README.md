@@ -1,4 +1,4 @@
-# Netflix_DataAnalysis
+# Netflix_Data_Analysis
 
 A surface analysis of Netflix's Dataset
 Through this project, we will be analyzing the Netflix Movies and TV Shows dataset to identify:
